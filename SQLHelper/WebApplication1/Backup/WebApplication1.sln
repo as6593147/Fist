@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{BCCE375D-D582-44A3-AA9A-4E8AF10F356A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emoney.OracleHelper", "Emoney.OracleHelper\Emoney.OracleHelper.csproj", "{B384D8B0-5733-4332-BA68-B86DC7FE8F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emoney.SQLHelper", "Emoney.SQLHelper\Emoney.SQLHelper.csproj", "{67EE66C9-8207-4F6E-BA4D-E002E67C0E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCE375D-D582-44A3-AA9A-4E8AF10F356A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCE375D-D582-44A3-AA9A-4E8AF10F356A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCE375D-D582-44A3-AA9A-4E8AF10F356A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCE375D-D582-44A3-AA9A-4E8AF10F356A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B384D8B0-5733-4332-BA68-B86DC7FE8F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B384D8B0-5733-4332-BA68-B86DC7FE8F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B384D8B0-5733-4332-BA68-B86DC7FE8F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B384D8B0-5733-4332-BA68-B86DC7FE8F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EE66C9-8207-4F6E-BA4D-E002E67C0E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EE66C9-8207-4F6E-BA4D-E002E67C0E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EE66C9-8207-4F6E-BA4D-E002E67C0E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EE66C9-8207-4F6E-BA4D-E002E67C0E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
