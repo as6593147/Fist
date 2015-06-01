@@ -1,4 +1,0 @@
-C:\Users\国宇\Desktop\SQLHelper\WebApplication1\WebApplication1\bin\WebApplication1.dll
-C:\Users\国宇\Desktop\SQLHelper\WebApplication1\WebApplication1\bin\WebApplication1.pdb
-C:\Users\国宇\Desktop\SQLHelper\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-C:\Users\国宇\Desktop\SQLHelper\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

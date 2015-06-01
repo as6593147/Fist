@@ -1,9 +1,0 @@
-C:\Documents and Settings\wumin\桌面\oracl\WebApplication1\Emoney.SQLHelper\bin\Debug\Emoney.SQLHelper.dll
-C:\Documents and Settings\wumin\桌面\oracl\WebApplication1\Emoney.SQLHelper\bin\Debug\Emoney.SQLHelper.pdb
-C:\Documents and Settings\wumin\桌面\oracl\WebApplication1\Emoney.SQLHelper\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\wumin\桌面\oracl\WebApplication1\Emoney.SQLHelper\obj\Debug\Emoney.SQLHelper.dll
-C:\Documents and Settings\wumin\桌面\oracl\WebApplication1\Emoney.SQLHelper\obj\Debug\Emoney.SQLHelper.pdb
-C:\Users\国宇\Desktop\SQLHelper\WebApplication1\Emoney.SQLHelper\bin\Debug\Emoney.SQLHelper.dll
-C:\Users\国宇\Desktop\SQLHelper\WebApplication1\Emoney.SQLHelper\bin\Debug\Emoney.SQLHelper.pdb
-C:\Users\国宇\Desktop\SQLHelper\WebApplication1\Emoney.SQLHelper\obj\Debug\Emoney.SQLHelper.dll
-C:\Users\国宇\Desktop\SQLHelper\WebApplication1\Emoney.SQLHelper\obj\Debug\Emoney.SQLHelper.pdb
